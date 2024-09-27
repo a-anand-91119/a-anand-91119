@@ -3,7 +3,7 @@ Hi there, I’m Anand<br>Welcome to my GitHub profile! I'm a **Software Engineer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-anand) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NotYourAverageDev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-anand) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NotYourAverageDev) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnotyouraverage.dev)
 
 ## 👀 Interests
 
